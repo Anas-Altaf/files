@@ -1,0 +1,7 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\RH Designs\Mouse Emulator]
+"Mouse Delay"=dword:000000F6
+"Mouse Base Speed"=dword:0000000A
+"Mouse Max Speed"=dword:00000014
+
