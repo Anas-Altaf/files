@@ -1,4 +1,3 @@
-```markdown
 # Comprehensive Documentation and Implementation Guide
 ### FAST University - BA Software Engineering
 
@@ -835,4 +834,3 @@ screenshot.path=test-output/screenshots
    - **Continuous Integration**: Integrate tests with CI/CD pipelines for automated execution.
 
 This documentation provides a comprehensive guide for implementing various testing concepts and frameworks. Each section includes practical examples and best practices to ensure effective test automation implementation.
-```
